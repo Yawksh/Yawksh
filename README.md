@@ -28,10 +28,10 @@
 ### **Core Expertise**
 | **Area**       | **Technologies**                                                                 |
 |----------------|---------------------------------------------------------------------------------|
-| 🤖 AI/ML       | TensorFlow • PyTorch • HuggingFace • OpenCV                                     |
-| 🌐 Web Dev     | Django • FastAPI • React • Next.js • GraphQL                                    |
-| 🗃️ Databases   | PostgreSQL • MongoDB • Firebase                                                |
-| 🚀 DevOps      | Docker • Kubernetes • AWS • GitHub Actions                                     |
+  | 🤖 AI/ML       | TensorFlow • PyTorch • HuggingFace •Transformer • pandas• numpy • matplotlib                                    |
+| 🌐 Web Dev     | Django • Jvascript                                   |
+| 🗃️ Databases   | PostgreSQL • MongoDB • Mysql                                               |
+| 🚀 DevOps      | Docker • AWS • GitHub Actions                                     |
 
 ---
 
@@ -60,7 +60,7 @@
 
 | Platform       | Profile | Rating | Solved |
 |----------------|---------|--------|--------|
-| **LeetCode**   | [![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Yawukal&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Franking%2FYOUR_USERNAME&logo=leetcode&logoColor=yellow)](https://leetcode.com/YOUR_USERNAME/) | ![Rating](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Rating&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Franking%2FYOUR_USERNAME) | ![Problems](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Franking%2FYOUR_USERNAME) |
+| **LeetCode**   | [![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Yawukal&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Franking%2FYOUR_USERNAME&logo=leetcode&logoColor=yellow)](https://leetcode.com/Yawkal/) | ![Rating](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Rating&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Franking%2FYawkal) | ![Problems](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Franking%2FYawkal) |
 | **Codeforces** | [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_USERNAME) | ![Rating](https://cp-logo.vercel.app/codeforces/YOUR_USERNAME?logo=true) | ![Contests](https://img.shields.io/badge/Contests-50+-blue?style=flat-square) |
 | **HackerRank** | [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YOUR_USERNAME) | ![Stars](https://img.shields.io/badge/6★%20Gold-2EC866?style=flat-square) | ![Badges](https://img.shields.io/badge/15+%20Badges-2EC866?style=flat-square) |
 
