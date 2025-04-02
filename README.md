@@ -57,13 +57,21 @@
 
 ## 🏆 **Competitive Programming**
 
+## Leetcode stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Yawkal?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Heatmap">
 </p>
 
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Yawkal?theme=dark&font=Fira%20Code)
+## 🏆 Codeforces Stats
+
+<p align="center">
+  <a href="https://codeforces.com/profile/Yawkal">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile">
+  </a>
+</p>
+
 
 
 <div align="center">
