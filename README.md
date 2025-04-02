@@ -67,6 +67,7 @@
   </a>
 </p>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Yawkal?theme=dark&font=Fira%20Code)
 
 
 <div align="center">
