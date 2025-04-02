@@ -20,7 +20,7 @@
 - 🚀 Building **AI-powered educational tools** for Africa  
 - 💡 **Competitive Programmer** (1600+ Codeforces)  
 - ✍️ Writes about **system design & algorithms**  
-- ⚡ Fun fact: Solved **300+ LeetCode problems**  
+- ⚡ Fun fact: Solved **225+ LeetCode problems**  
 
 ---
 
