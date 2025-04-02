@@ -61,12 +61,6 @@
   <img src="https://leetcard.jacoblin.cool/Yawkal?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Heatmap">
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/Yawkal/">
-    <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Yawkal?theme=dark&font=Fira%20Code" alt="LeetCode Stats">
-</p>
-  </a>
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Yawkal?theme=dark&font=Fira%20Code)
