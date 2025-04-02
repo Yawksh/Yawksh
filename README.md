@@ -6,7 +6,97 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+solutions+for+Africa+and+beyond+🚀" alt="Typing Subtitle"></a>
 </h3>
 
+---<h1 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B,+I'm+Yawukal+Fentaw;A2SV+%7C+Google-Backed+DSA+Trainee;Django+%7C+AI+%7C+NLP+Engineer" alt="Typing Intro">
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+solutions+for+Africa+and+beyond+%F0%9F%9A%80" alt="Typing Subtitle">
+</h3>
+
 ---
+
+## 🚀 **About Me**
+
+<p align="center">
+  <img align="right" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=right&titleAlign=left&lineCount=2&line1=python,python,3776AB;django,django,092E20;tensorflow,tensorflow,FF6F00&line2=javascript,javascript,F7DF1E;react,react,61DAFB;node.js,node.js,339933" alt="Tech Stack" width="300">
+</p>
+
+- 🔭 **5th-year Software Engineer** specializing in AI/NLP  
+- 🏆 **A2SV DSA Trainee** (Google-backed program)  
+- 🚀 Building **AI-powered educational tools** for Africa  
+- 💡 **Competitive Programmer** (1600+ Codeforces)  
+- ✍️ Writes about **system design & algorithms**  
+- ⚡ Fun fact: Solved **300+ LeetCode problems**  
+
+---
+
+## 🛠 **Professional Toolkit**
+
+### **Core Expertise**
+| **Area**       | **Technologies**                                                                 |
+|----------------|---------------------------------------------------------------------------------|
+| 🤖 AI/ML       | TensorFlow • PyTorch • HuggingFace • Transformers • pandas • numpy • matplotlib |
+| 🌐 Web Dev     | Django • JavaScript  |
+| 🗃️ Databases   | PostgreSQL • MongoDB • MySQL  |
+| 🚀 DevOps      | Docker • AWS • GitHub Actions  |
+
+---
+
+## 📊 **GitHub Analytics**
+
+<p align="center">
+  <a href="https://github.com/Yawksh">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yawksh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/Yawksh">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yawksh&theme=radical&hide_border=true&fire=DD2727" alt="GitHub Streak">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Yawksh">
+    <img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yawksh&theme=radical" alt="Profile Details">
+  </a>
+</p>
+
+---
+
+## 🏆 **Competitive Programming**
+
+<div align="center">
+
+| Platform       | Profile | Rating | Solved |
+|----------------|---------|--------|--------|
+| **LeetCode**   | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Yawkal/) | - | - |
+| **Codeforces** | [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Yawkal) | - | - |
+| **HackerRank** | [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yawukalfentaw) | - | - |
+
+</div>
+
+---
+
+## 📫 **Let's Connect**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yawkal-fentaw2121/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black">
+  </a>
+  <a href="https://github.com/Yawksh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black">
+  </a>
+</p>
+
+---
+
+<div align="center">
+  
+![Visitor Count](https://komarev.com/ghpvc/?username=Yawksh&label=Profile%20Views&color=58A6FF&style=flat-square)
+![Repos Badge](https://badges.pufler.dev/repos/Yawksh?color=58A6FF&style=flat-square)
+![Years Badge](https://badges.pufler.dev/years/Yawksh?color=58A6FF&style=flat-square)
+
+</div>
+
 
 ## 🚀 **About Me**
 
