@@ -1,9 +1,9 @@
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B,+I'm+Yawukal+Fentaw;A2SV+%7C+Google-Backed+DSA+Trainee;Django+%7C+AI+%7C+NLP+Engineer" alt="Typing Intro">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Yawukal+Fentaw;A2SV+%7C+Google-Backed+DSA+Trainee;Django+%7C+AI+%7C+NLP+Engineer" alt="Typing Intro">
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+solutions+for+Africa+and+beyond+%F0%9F%9A%80" alt="Typing Subtitle">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+solutions+for+Africa+and+beyond+🚀" alt="Typing Subtitle"></a>
 </h3>
 
 ---
@@ -28,10 +28,10 @@
 ### **Core Expertise**
 | **Area**       | **Technologies**                                                                 |
 |----------------|---------------------------------------------------------------------------------|
-| 🤖 AI/ML       | TensorFlow • PyTorch • HuggingFace • Transformers • pandas • numpy • matplotlib |
-| 🌐 Web Dev     | Django • JavaScript  |
-| 🗃️ Databases   | PostgreSQL • MongoDB • MySQL  |
-| 🚀 DevOps      | Docker • AWS • GitHub Actions  |
+  | 🤖 AI/ML       | TensorFlow • PyTorch • HuggingFace •Transformer • pandas• numpy • matplotlib                                    |
+| 🌐 Web Dev     | Django • JavaScript                                   |
+| 🗃️ Databases   | PostgreSQL • MongoDB • MySQL                                               |
+| 🚀 DevOps      | Docker • AWS • GitHub Actions                                     |
 
 ---
 
@@ -60,9 +60,9 @@
 
 | Platform       | Profile | Rating | Solved |
 |----------------|---------|--------|--------|
-| **LeetCode**   | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Yawkal/) | - | - |
-| **Codeforces** | [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Yawkal) | - | - |
-| **HackerRank** | [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yawukalfentaw) | - | - |
+| **LeetCode**   | [![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Yawkal&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Franking%2FYawkal&logo=leetcode&logoColor=yellow)](https://leetcode.com/Yawkal/) | N/A | N/A |
+| **Codeforces** | [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Yawkal) | N/A | N/A |
+| **HackerRank** | [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yawukalfentaw) | N/A | N/A |
 
 </div>
 
@@ -74,8 +74,8 @@
   <a href="https://www.linkedin.com/in/yawkal-fentaw2121/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black">
   </a>
-  <a href="https://github.com/Yawksh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black">
+  <a href="https://github.com/Yawksh?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black">
   </a>
 </p>
 
