@@ -66,11 +66,12 @@
 
 ## 🏆 Codeforces Stats
 
-<p align="center">
-  <a href="https://codeforces.com/profile/Yawkal">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile">
-  </a>
+
+  <p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Yawkal" alt="Codeforces Stats">
 </p>
+
+
 
 
 
