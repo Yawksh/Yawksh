@@ -3,8 +3,9 @@
 </h1>
 
 <h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building +%20scalable%20solutions%20for%20Africa%20and%20beyond%20🚀" alt="Typing Subtitle"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+scalable+solutions+for+Africa+and+beyond+🚀" alt="Typing Subtitle">
 </h3>
+
 
 ---
 
