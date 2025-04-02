@@ -57,6 +57,11 @@
 
 ## 🏆 **Competitive Programming**
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Yawkal?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Heatmap">
+</p>
+
+
 <div align="center">
 
 | Platform       | Profile | Rating | Solved |
