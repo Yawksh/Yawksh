@@ -61,6 +61,12 @@
   <img src="https://leetcard.jacoblin.cool/Yawkal?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Heatmap">
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/Yawkal/">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Franking%2FYawkal&logo=leetcode&logoColor=yellow" alt="LeetCode Ranking">
+  </a>
+</p>
+
 
 <div align="center">
 
