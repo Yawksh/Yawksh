@@ -62,7 +62,9 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Yawkal?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Heatmap">
+  <a href="https://leetcode.com/Yawkal/">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?user=Yawkal" alt="LeetCode Stats">
+  </a>
 </p>
 
 
