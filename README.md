@@ -15,10 +15,10 @@
   <img align="right" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=right&titleAlign=left&lineCount=2&line1=python,python,3776AB;django,django,092E20;tensorflow,tensorflow,FF6F00&line2=javascript,javascript,F7DF1E;react,react,61DAFB;node.js,node.js,339933" alt="Tech Stack" width="300">
 </p>
 
-- 🔭 **5th-year Software Engineer** specializing  
-- 🏆 **A2SV DSA Trainee** (Google-backed program)  
-- 🚀 Building **AI-powered educational tools** for Africa  
-- 💡 **Competitive Programmer** (1600+ Codeforces)  
+- 🔭 **5th-year Software Engineer**  
+- 🏆 **A2SV DSA Trainee** (backed by Google)  
+- 🚀 Building **efficient backend solutions**  
+- 💡 **Competitive Programmer**
 - ✍️ Writes about **system design & algorithms**  
 - ⚡ Fun fact: Solved **225+ LeetCode problems**  
 
