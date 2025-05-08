@@ -61,7 +61,7 @@
 ## 🏆 **Competitive Programming**
 #### Leetcode badges
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Yawkal?ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcode.com/medal/?showImg=0&id=4979570&isLevel=false)" />
 </p>
 
 ## Leetcode stats
