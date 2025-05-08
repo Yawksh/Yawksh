@@ -61,9 +61,11 @@
 ## 🏆 **Competitive Programming**
 #### Leetcode badges
 <p align="center">
-  <img src="https://github.com/Yawksh/Yawksh/blob/main/ltc%202024.png" width = 30 height = 30 />
-  <img src = "https://github.com/Yawksh/Yawksh/blob/main/ltc%202025.png"/>
+  <img src="https://github.com/Yawksh/Yawksh/blob/main/ltc%202024.png" width="80" height="80" alt="LeetCode 2024 Badge"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/Yawksh/Yawksh/blob/main/ltc%202025.png" width="80" height="80" alt="LeetCode 2025 Badge"/>
 </p>
+
 
 ## Leetcode stats
 <p align="center">
